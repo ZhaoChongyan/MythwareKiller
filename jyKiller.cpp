@@ -47,6 +47,6 @@ int main(void) {
 	while(Check_Pro("StudentMain.exe")) {
 		Kill_Pro("StudentMain.exe");
 	}
-	puts("jfglzs has been killed!");
+	puts("jy has been killed!");
 	return 0;
 }
