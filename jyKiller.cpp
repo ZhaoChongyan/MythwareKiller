@@ -1,7 +1,7 @@
 /*
  * This program is created by ZhaoChongyan.
- * This program is used for destroy Jifangguanlizhushou, A useless, disgusting malware software.
- * The malware software is hard-opposing. So I created this program to solve the problem.
+ * This program is used for destroy Mythware, A teaching tool software.
+ * Mythware may interrupt your work. So I created this program to solve the problem.
  */
 #include <cstdlib>
 #include <windows.h>
