@@ -1,4 +1,4 @@
-# jyKiller
+# MythwareKiller
 破解[极域](http://www.mythware.net/)
 
 我们强烈**不建议**您这么做, 这可能会使您的听课效率下降, 除非您确实希望摆脱教师的控制.
